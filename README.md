@@ -1,4 +1,4 @@
-# DBM SHOP!
+# My SHOP!
 
 > It is simple e commerce website made using commerce.js
 
